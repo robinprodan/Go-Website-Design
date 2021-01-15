@@ -18,18 +18,18 @@
 
 .carousel-img-1 
  {
-  background: url("/assets/images/image1.jpeg");
+  background: url("../images/image1.jpeg");
   background-size: cover; 
  }
 .carousel-img-2
  {
-  background: url("/assets/images/image2.jpeg");
+  background: url("../images/image2.jpeg");
   background-size: cover; 
  }
 
 .carousel-img-3
  {
-  background: url("/assets/images/image3.jpeg");
+  background: url("../images/image3.jpeg");
   background-size: cover; 
  }
 
@@ -40,7 +40,7 @@
 
 #started 
  {
-  background: url("/assets/images/bg1.jpeg");
+  background: url("../images/bg1.jpeg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -59,7 +59,7 @@
 
 #video 
  {
-  background: url("/assets/images/people.jpeg");
+  background: url("../images/people.jpeg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -93,7 +93,7 @@
 
 #page-header 
  {
-  background: url("/assets/images/image1.jpeg");
+  background: url("../images/image1.jpeg");
   height: 200px;
   background-attachment: fixed;
   background-size: cover; 
@@ -124,7 +124,7 @@
 
 #services-header 
  {
-  background: url("/assets/images/image2.jpeg");
+  background: url("../images/image2.jpeg");
   height: 200px;
   background-attachment: fixed;
   background-size: cover; 
@@ -132,7 +132,7 @@
 
 #blogs 
  {
-  background: url("/assets/images/image3.jpeg");
+  background: url("../images/image3.jpeg");
   background-attachment: fixed;
   background-size: cover;
   height: 200px; 
@@ -145,7 +145,7 @@
 
 #contact 
  {
-  background: url("/assets/images/image1.jpeg");
+  background: url("../images/image1.jpeg");
   background-attachment: fixed;
   background-size: cover;
   height: 200px; 
